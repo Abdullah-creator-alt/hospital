@@ -1,0 +1,9 @@
+PatientID, Name, Age, Gender, Diagnosis, AdmissionDate, DischargeDate, RoomType, TreatmentCost
+1001, Alice Johnson, 45, Female, Pneumonia, 2024-11-01, 2024-11-05, Private, 12000
+1002, Bob Smith, 60, Male, Heart Attack, 2024-11-03, 2024-11-10, Semi-Private, 25000
+1003, Carol White, 30, Female, Broken Leg, 2024-11-07, 2024-11-14, Shared, 8000
+1004, David Brown, 50, Male, Diabetes, 2024-11-02, 2024-11-12, Private, 15000
+1005, Eva Davis, 35, Female, Asthma, 2024-11-04, 2024-11-08, Semi-Private, 10000
+1006, Frank Miller, 70, Male, Stroke, 2024-11-05, 2024-11-15, Private, 22000
+1007, Grace Lee, 28, Female, Allergy, 2024-11-08, 2024-11-10, Shared, 6000
+1008, Henry Clark, 65, Male, Hypertension, 2024-11-06, 2024-11-13, Semi-Private, 12000
